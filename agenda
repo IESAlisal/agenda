@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<!DOCTYPE agenda>
+<agenda>
+  <persona>
+      <identificadores>
+        <nombre> Ines </nombre>
+        <apellido1> Lopez </apellido1>
+        <apellido2> Perez </apellido2>
+      </identificadores>
+      <direccion>
+        <calle> El Percebe </calle>
+        <numuero> 13 </numero>
+        <piso> 3 </piso>
+        <letra> A </letra>
+        <localidad> Santander </localidad>
+        <cp> 39300 </cp>
+      </direccion>
+      <telefonos>
+        <movil> 942560321 </movil>
+        <casa> 9704265315 </casa>
+      </telefonos>
+    </persona>
+</agenda>
